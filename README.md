@@ -1,9 +1,8 @@
 
 # Nasa-project
 
-![Captura de pantalla 2](./src/assets/first-screen-nasa-png.png)
+![Captura de pantalla 2](./src/assets/nasa-readme.png)
 
-![Captura de pantalla 1](./src//assets/second-screen-nasa.png)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
