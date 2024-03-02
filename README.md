@@ -1,10 +1,12 @@
 
 # Nasa-project
 
+This is a project built with  [**React Native**](https://reactnative.dev) by [@
+MoniCamargo37](https://github.com/MoniCamargo37)
+
+
 ![Captura de pantalla 2](./src/assets/nasa-readme.png)
 
-
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
